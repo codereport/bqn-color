@@ -16,3 +16,5 @@
 </p>
 
 A small [BQN](https://mlochbaum.github.io/BQN) library for coloring text.
+
+![image](https://github.com/user-attachments/assets/5231de5c-5e3b-4306-83fa-feb5fcf3f7a9)
